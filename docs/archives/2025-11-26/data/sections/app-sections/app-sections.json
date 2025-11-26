@@ -1,0 +1,16 @@
+{
+  "footer": {
+    "appealText": "Мы будем счастливы видеть вас!",
+    "copyrightText": "© Дмитрий и Марина, 2025",
+    "craftedWithText": "Бережно сделано с "
+  },
+  "hero": {
+    "// titleText": "Приглашение",
+    "/// titleText": "Привет 👋",
+    "illustrationImageAltText": "Дмитрий и Марина с цветами",
+    "illustrationImageHeight": 625,
+    "illustrationImageRelativeURL": "data/sections/app-hero/assets/dm-with-flowers.png",
+    "illustrationImageWidth": 573,
+    "phraseText": "Всё произошло случайно, как и планировалось."
+  }
+}
