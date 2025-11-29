@@ -1,0 +1,38 @@
+[
+  {
+    "codename": "TransferToLocation",
+    "descriptionParagraphs": ["Доставим вас из Петербурга на банкетную площадку.", "Подробности позже."],
+    "periodFrom": "13:30",
+    "title": "Сбор гостей на transfer"
+  },
+  {
+    "codename": "Start",
+    "descriptionParagraphs": ["Просим взять с собой хорошее настроение и улыбки."],
+    "periodFrom": "15:00",
+    "title": "Сбор гостей нa welcome"
+  },
+  {
+    "codename": "WeddingCeremony",
+    "descriptionParagraphs": ["На всякий случай приготовьте носовые платочки для трогательного момента."],
+    "periodFrom": "15:30",
+    "title": "Свадебная церемония"
+  },
+  {
+    "codename": "Banquet",
+    "descriptionParagraphs": ["Время вкусной еды, танцев и развлечений."],
+    "periodFrom": "16:15",
+    "title": "Праздничный банкет"
+  },
+  {
+    "codename": "Finish",
+    "descriptionParagraphs": ["К сожалению, даже такой прекрасный вечер может закончиться."],
+    "periodFrom": "22:00",
+    "title": "Окончание мероприятия"
+  },
+  {
+    "codename": "TransferFromLocation",
+    "descriptionParagraphs": ["Доставим вас от банкетной площадки в Петербург."],
+    "periodFrom": "22:10",
+    "title": "Сбор гостей на transfer"
+  }
+]
