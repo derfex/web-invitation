@@ -1,5 +1,6 @@
 {
   "appSectionsRelativeURL": "data/sections/app-sections/app-sections.json",
+  "dressCodeSectionRelativeURL": "data/sections/dress-code/dress-code-section.json",
   "eventDaySectionRelativeURL": "data/sections/event-day/event-day-section.json",
   "eventDetailsSectionRelativeURL": "data/sections/event-details/event-details-section.json",
   "eventLocationSectionRelativeURL": "data/sections/event-location/event-location-section.json",
