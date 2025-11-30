@@ -1,0 +1,15 @@
+{
+  "// titleText": "Опрос",
+  "// descriptionParagraphs": [
+    "Просим пройти опрос до 01.07.2026",
+    "При затруднениях вы можете связаться с нами иным удобным способом."
+  ],
+
+  "descriptionParagraphs": [
+    "Просим заполнить анкету до 01.07.2026",
+    "При затруднениях вы можете связаться с нами удобным для вас способом."
+  ],
+  "googleFormHeight": 1390,
+  "googleFormURL": "https://docs.google.com/forms/d/e/1FAIpQLSePexqtNRFU-wOvFUQJqrUFVZzOH-Aj7L6rLDhEI-znx3PDmQ/viewform?embedded=true",
+  "titleText": "Анкета"
+}
