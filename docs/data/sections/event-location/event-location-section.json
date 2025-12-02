@@ -1,0 +1,25 @@
+{
+  "illustrationCaptionText": "Ресторан «Русская рыбалка»",
+  "illustrationImageAltText": "Ресторан «Русская рыбалка»",
+  "illustrationImageHeight": 216,
+  "illustrationImageRelativeURL": "data/sections/event-location/assets/russian-fishing.jpg",
+  "illustrationImageWidth": 234,
+  "locationURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.6050692069132!2d29.811382627733632!3d60.170716626050364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x469652e4147e531f%3A0x21802a6996e4b276!2z0KDRg9GB0YHQutCw0Y8g0YDRi9Cx0LDQu9C60LA!5e0!3m2!1sru!2sru!4v1763484902695!5m2!1sru!2sru",
+  "mapDescriptionParagraphs": [
+    "Наша свадьба пройдёт в ресторане «Русская рыбалка» в банкетном зале «Морской».",
+    "Он находится по адресу:",
+    "Ленинградская область, Комарово, Приморское шоссе, д. 452А"
+  ],
+  "ornament": {
+    "columnMinWidth": 100,
+    "count": 190,
+    "fontSize": 32,
+    "text": "ГДЕ"
+  },
+  "showMapButtonText": "Показать карту",
+  "titleText": "Где?",
+  "transferParagraphs": [
+    "Для вашего комфорта мы организовали трансфер, который довезёт вас от города до банкетной площадки.",
+    "Подробности мы сообщим дополнительно."
+  ]
+}

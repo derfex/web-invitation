@@ -1,0 +1,15 @@
+{
+  "descriptionParagraphs": [
+    "Друзья, нам будет приятно, если вы выберете неяркие цвета для ваших нарядов.",
+    "Пожалуйста, не приходите в белом платье.",
+    "Мы будем рады, если вы поддержите оттенки нашей свадьбы."
+  ],
+  "illustration": {
+    "imageAltText": "Дмитрий и Марина на стиле",
+    "imageHeight": 500,
+    "imageRelativeURL": "data/sections/dress-code/assets/dm-style.webp",
+    "imageWidth": 460
+  },
+  "tints": ["#4c5467", "#7e9fc4", "#9eadbf", "#cabaaa", "#eee4da", "#d9d9d9"],
+  "titleText": "А что по стилю?"
+}

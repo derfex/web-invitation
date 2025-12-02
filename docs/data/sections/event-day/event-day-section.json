@@ -1,0 +1,13 @@
+{
+  "appealText": "Мы будем рады разделить с вами неповторимый для нас день! Украсьте наш праздник своим присутствием!",
+  "authorsSignatureLines": ["С любовью,", "Дмитрий и Марина"],
+  "eventDateCaptionText": "Мероприятие состоится",
+  "eventDateValueText": "15.08.2026",
+  "ornament": {
+    "columnMinWidth": 120,
+    "count": 120,
+    "fontSize": 32,
+    "text": "КОГДА"
+  },
+  "titleText": "Приглашаем вас на нашу свадьбу!"
+}

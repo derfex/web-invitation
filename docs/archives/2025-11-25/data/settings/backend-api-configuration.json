@@ -1,0 +1,9 @@
+{
+  "appSectionsRelativeURL": "data/sections/app-sections/app-sections.json",
+  "eventDaySectionRelativeURL": "data/sections/event-day/event-day-section.json",
+  "eventDetailsSectionRelativeURL": "data/sections/event-details/event-details-section.json",
+  "eventLocationSectionRelativeURL": "data/sections/event-location/event-location-section.json",
+  "eventProgramSectionRelativeURL": "data/sections/event-program/event-program-section.json",
+  "eventOrganizationSectionRelativeURL": "data/sections/event-organization/event-organization-section.json",
+  "guestQuestionnaireSectionRelativeURL": "data/sections/guest-questionnaire/guest-questionnaire-section.json"
+}
