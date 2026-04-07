@@ -2,7 +2,7 @@
 
 - [2026-04-07](./2026-04-07)
     - Improve the data of `guest-questionnaire-section`.
-    - Improve the data of `app-sections.json`.
+    - Improve the data of `app-sections`.
 - [2025-12-01](./2025-12-01)
 - [2025-11-30](./2025-11-30)
 - [2025-11-29](./2025-11-29)
